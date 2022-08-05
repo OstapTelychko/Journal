@@ -1,0 +1,51 @@
+{
+    "Ostap Telychko": {
+        "2022": {
+            "January": {
+                "lesson 0": {
+                    "Day": [
+                        "Saturday",
+                        "Субота"
+                    ],
+                    "Hour": "09:00",
+                    "Date": "15"
+                },
+                "lesson 1": {
+                    "Day": [
+                        "Saturday",
+                        "Субота"
+                    ],
+                    "Hour": "19:00",
+                    "Date": "15"
+                },
+                "lesson 2": {
+                    "Day": [
+                        "Saturday",
+                        "Субота"
+                    ],
+                    "Hour": "09:10",
+                    "Date": "15"
+                },
+                "lesson 3": {
+                    "Day": [
+                        "Saturday",
+                        "Субота"
+                    ],
+                    "Hour": "19:10",
+                    "Date": "15"
+                }
+            },
+            "February": {},
+            "March": {},
+            "April": {},
+            "May": {},
+            "June": {},
+            "July": {},
+            "August": {},
+            "September": {},
+            "October": {},
+            "November": {},
+            "December": {}
+        }
+    }
+}
